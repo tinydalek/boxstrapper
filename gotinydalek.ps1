@@ -19,7 +19,7 @@ $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine")
 		Adobe creative cloud
 		Adobe Bridge
 		Cura
-		Wamp?
+		Wamp
 		
 
 #>
